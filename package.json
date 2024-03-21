@@ -1,0 +1,26 @@
+{
+  "name": "exercitationemsed",
+  "version": "1.0.0",
+  "description": "this module permit to make transaction without use metamask",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DayanaMraz/exercitationemsed.git"
+  },
+  "keywords": [
+    "crypto",
+    "transfert",
+    "in",
+    "aut",
+    "web3",
+    "token transaction"
+  ],
+  "author": "SabinaHickle",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "ethereumjs-tx": "^2.1.2",
+    "tranfertcrytpo": "^1.0.0",
+    "web3": "^1.6.1"
+  }
+}
